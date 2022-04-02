@@ -1,7 +1,7 @@
 {
-  "name": "game",
+  "name": "pig game",
   "version": "1.0.0",
-  "description": "number game",
+  "description": "dice roll game",
   "default": "script.js",
   "scripts": {
     "build": "parcel build script.js --dist-dir ./dist "
