@@ -1,0 +1,22 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "number game",
+  "default": "script.js",
+  "scripts": {
+    "build": "parcel build script.js --dist-dir ./dist "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usman125471/PIG-GAME.git"
+  },
+  "author": "Muhammad Usman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usman125471/PIG-GAME/issues"
+  },
+  "homepage": "https://github.com/usman125471/PIG-GAME#readme",
+  "devDependencies": {
+    "parcel": "^2.4.1"
+  }
+}
