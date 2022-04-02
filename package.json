@@ -1,5 +1,5 @@
 {
-  "name": "pig game",
+  "name": "game",
   "version": "1.0.0",
   "description": "dice roll game",
   "default": "script.js",
