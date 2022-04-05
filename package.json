@@ -2,10 +2,10 @@
   "name": "game",
   "version": "1.0.0",
   "description": "dice rolling game",
-  "main": "script.js",
+  "default": "script.js",
   "scripts": {
     "start": "parcel script.js",
-    "build": "parcel build script.js"
+    "build": "parcel build script.js --dist-dir ./dist"
   },
   "repository": {
     "type": "git",
